@@ -10,6 +10,7 @@
     
    
 # Project Truffle
+
 This is **project Truffle**. Here's how to eat it:
 
 *   **_Take a small bite by exploring the contents listed below._**
